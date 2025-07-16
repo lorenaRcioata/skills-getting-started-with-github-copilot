@@ -66,9 +66,7 @@ section h3 {
 }
 
 .activity-card ul {
-  padding-left: 25px;
-  list-style-type: disc;
-  color: #444;
+  margin-left: 25px;
 }
 
 .activity-card h4 {
